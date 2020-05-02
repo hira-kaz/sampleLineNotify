@@ -1,0 +1,23 @@
+{
+  "name": "samplelinenotify",
+  "version": "1.0.0",
+  "description": "sample line notify",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hira-kaz/sampleLineNotify.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hira-kaz/sampleLineNotify/issues"
+  },
+  "homepage": "https://github.com/hira-kaz/sampleLineNotify#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
